@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.hero{
+    background-image: linear-gradient(#c847f1,#380231);
+}
+.top-bar{
+    padding: 20px;
+}
+.top-bar img{
+    width: 130px;
+}
+.top-button{
+  float: right;
+}
+.top-button a{
+    margin: 0 8px;
+    padding: 8px 20px;
+    border-radius: 50px;
+    background: #fff;
+    color: #333;
+    text-decoration: none !important;
+    border: 2px solid #fff;
+}
+.login-btn{
+    background: transparent !important;
+    color: #fff !important;
+}
+.top-button a:hover{
+    background: #fff !important;
+    color: #333 !important;
+} 
