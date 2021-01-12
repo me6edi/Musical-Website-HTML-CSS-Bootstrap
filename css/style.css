@@ -32,3 +32,30 @@
     background: #fff !important;
     color: #333 !important;
 } 
+.hero h1{
+    color: #fff;
+    font-size: 70px;
+    font-weight: bold;
+    margin-top: 12%;
+    letter-spacing: 3px;
+}
+.hero p{
+    color: #fff;
+}
+.hero .container{
+    margin-top: 13%;
+}
+.start-btn{
+    background: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    width: 140px;
+    height: 40px;
+    margin-top: 30px;
+    border-radius: 50px;
+}
+.home-img img{
+    width: 85%;
+    min-width: 350px;
+    margin-top: 10%;
+}
